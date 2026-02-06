@@ -1,2 +1,6 @@
-# movies_analysis_project
-Movies Analysis Project
+## Movies Analysis Project
+
+# Завдання
+За допомогою бібліотек Numpy, Pandas, Matplotlib та Seaborn ти проаналізуєш датасети про фільми. Так, датасети - у множині!
+
+Тобі потрібно буде зібрати з великого пакету файлів один датасет і опрацювати його.
